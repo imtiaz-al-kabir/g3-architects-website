@@ -193,6 +193,15 @@ main > section {
   filter: grayscale(100%);
 }
 
+/* footer  */
+
+.footer {
+  margin: 140px auto;
+  text-align: center;
+  padding: 39px 0;
+  font-size: 1.2rem;
+}
+
 /* responsive media query */
 /* small screen size */
 @media screen and (max-width: 576px) {
